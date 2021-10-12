@@ -1,0 +1,1 @@
+{"uuid":"37275d03-e07a-4265-957e-fbac8b5d4da1","name":"com.TestCases.DashBoardTestCase","children":["ee53eba6-9608-47f5-a9a9-afd494a022f5"],"befores":[],"afters":[{"name":"close","status":"passed","stage":"finished","description":"","steps":[],"attachments":[],"parameters":[],"start":1632993464141,"stop":1632993464424}],"links":[],"start":1632993452282,"stop":1632993464498}
